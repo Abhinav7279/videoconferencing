@@ -1,0 +1,27 @@
+#video-container {
+    display: flex;
+  }
+  
+  #video-container video {
+    width: 50%;
+  }
+  
+  #chat-container {
+    margin-top: 20px;
+  }
+  
+  #messages {
+    height: 200px;
+    overflow-y: scroll;
+  }
+  
+  #message-input {
+    width: 70%;
+  }
+  
+  #send-button {
+    width: 30%;
+  }
+  body{
+    background-color: aquamarine;
+  }
